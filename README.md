@@ -3,7 +3,7 @@
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/raniere-prates/)](https://www.linkedin.com/in/raniere-prates/)
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:raniere.prates@gmail.com)](mailto:raniere.prates@gmail.com)
 
-I'm Raniere, a 25 year old PHP Developer from São Paulo, Brazil
+I'm Raniere, a 25 years old PHP Developer from São Paulo, Brazil
 
 More about me:
 - 🦊 I’m currently working on [upLexis Tecnologia](http://uplexis.com.br/)
@@ -18,7 +18,7 @@ More about me:
   <a href="https://github.com/ranierePrates"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ranierePrates&layout=compact&theme=tokyonight"/></a>
 </details>
 <!-- <br> -->
-<!-- [![Visitors](https://visitor-badge.glitch.me/badge?page_id=github/ranierePrates)](https://github.com/anajuliabit) -->
+<!-- [![Visitors](https://visitor-badge.glitch.me/badge?page_id=github/ranierePrates)](https://github.com/ranierePrates) -->
 
 
 
