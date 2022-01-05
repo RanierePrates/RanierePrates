@@ -6,7 +6,7 @@
 I'm Raniere, a 25 years old PHP Developer from São Paulo, Brazil
 
 More about me:
-- 🦊 I’m currently working on [upLexis Tecnologia](http://uplexis.com.br/)
+- I’m currently working on [Mobly](https://mobly.com.br/)
 
 <details>
   <summary>Github Stats</summary>
